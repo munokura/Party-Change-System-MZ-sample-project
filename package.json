@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "MZパーティ編成システム",
+        "title": "パーティ編成システムMZ",
         "width": 816,
         "height": 624,
         "position": "center",
